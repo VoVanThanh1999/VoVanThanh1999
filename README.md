@@ -6,7 +6,7 @@
 
 💞️ I'm looking to collaborate on innovative projects that leverage my expertise in Java and the Spring framework. If you have exciting opportunities or projects, feel free to reach out!
 
-📫 How to reach me: Connect with me on FB (https://www.facebook.com/profile.php?id=100016456601999) or drop me an email at [thanhvvit11@gmail.com].
+📫 How to reach me: Connect with me on FB (https://www.facebook.com/profile.php?id=100016456601999) or drop me an email at thanhvvit11@gmail.com.
 
 <!---
 VoVanThanh1999/VoVanThanh1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
